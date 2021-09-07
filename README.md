@@ -1,7 +1,7 @@
 # US_Tariff_on_China
 An estimation of the impact of tariff reduction on industries based on price elasticity.   
    
-For the good of the U.S. and world economy, the International Monetary Fund (IMF) has advised the Biden administration to end the tariffs imposed by Donald Trump and his administration. However, without indications of which We want to estimate the impact of Biden's possible tariff reduction on Chinese industries, but where shall we start?  
+For the good of the U.S. and world economy, the International Monetary Fund (IMF) has advised the Biden administration to end the tariffs imposed by Donald Trump and his administration. However, without indications of which, we want to estimate the impact of Biden's possible tariff reduction on Chinese industries. 
   
 There are a few recommended methods:  
   

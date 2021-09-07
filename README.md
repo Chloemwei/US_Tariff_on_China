@@ -20,8 +20,10 @@ The traditional price elasticity formula is written as:
 
 We redefined non-elastic as:
 
-Both
+Both  
+
 *% Change in Quantity Demanded of Chinese Export to US - % Change in Quantity Demanded of World's Export to US* > -.05  
-&  
+&    
+
 
 *% Change in Price of Chinese Export to US - % Change in Price of World's Export to US* > -.05

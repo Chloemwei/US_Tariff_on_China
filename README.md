@@ -18,7 +18,7 @@ The traditional price elasticity formula is written as:
 
 *Price Elasticity of Demand = % Change in Quantity Demanded / % Change in Price*
 
-We redefined it as:
+We redefined non-elastic as:
 
 Both
 *% Change in Quantity Demanded of Chinese Export to US - % Change in Quantity Demanded of World's Export to US* > -.05  
